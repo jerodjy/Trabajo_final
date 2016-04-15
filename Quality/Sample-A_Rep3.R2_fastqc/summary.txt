@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Sample-A_Rep3.R2.fastq.gz
+PASS	Per base sequence quality	Sample-A_Rep3.R2.fastq.gz
+PASS	Per sequence quality scores	Sample-A_Rep3.R2.fastq.gz
+FAIL	Per base sequence content	Sample-A_Rep3.R2.fastq.gz
+FAIL	Per base GC content	Sample-A_Rep3.R2.fastq.gz
+WARN	Per sequence GC content	Sample-A_Rep3.R2.fastq.gz
+PASS	Per base N content	Sample-A_Rep3.R2.fastq.gz
+PASS	Sequence Length Distribution	Sample-A_Rep3.R2.fastq.gz
+FAIL	Sequence Duplication Levels	Sample-A_Rep3.R2.fastq.gz
+WARN	Overrepresented sequences	Sample-A_Rep3.R2.fastq.gz
+WARN	Kmer Content	Sample-A_Rep3.R2.fastq.gz

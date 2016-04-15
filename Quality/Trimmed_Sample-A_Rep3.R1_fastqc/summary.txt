@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Per base sequence quality	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Per sequence quality scores	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Per base sequence content	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Per base GC content	Trimmed_Sample-A_Rep3.R1.fastq.gz
+WARN	Per sequence GC content	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Per base N content	Trimmed_Sample-A_Rep3.R1.fastq.gz
+PASS	Sequence Length Distribution	Trimmed_Sample-A_Rep3.R1.fastq.gz
+FAIL	Sequence Duplication Levels	Trimmed_Sample-A_Rep3.R1.fastq.gz
+WARN	Overrepresented sequences	Trimmed_Sample-A_Rep3.R1.fastq.gz
+WARN	Kmer Content	Trimmed_Sample-A_Rep3.R1.fastq.gz
